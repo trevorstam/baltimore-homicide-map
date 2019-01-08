@@ -8,4 +8,5 @@ For more data on homicides in Baltimore visit [the Baltimore Sun](https://homici
 - Make sure you have Node.js installed.
 - Open up a terminal and ``git clone`` this repository
 - Install the dependencies with ``npm i``
+- ``cd`` into **my-app** folder
 - Type ``npm start`` to fire up the development server. The application will open on localhost:3000 in your browser.
